@@ -1,0 +1,13 @@
+{
+  "name": "catalogo-de-herois",
+  "version": "1.0.0",
+  "description": "Atividade prática de Node.js e Express: páginas HTML e parâmetros em rotas.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
